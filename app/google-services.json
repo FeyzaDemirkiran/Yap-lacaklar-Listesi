@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73565201086",
+    "project_id": "yapilacaklar-bf8b2",
+    "storage_bucket": "yapilacaklar-bf8b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73565201086:android:2e3f9d024afdc08fae34ef",
+        "android_client_info": {
+          "package_name": "com.example.yaplacaklistesiuygulamas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxlyzoL4qLSSh4JtoDK4rf3IDmztJRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
